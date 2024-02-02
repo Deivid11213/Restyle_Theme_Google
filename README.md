@@ -11,7 +11,7 @@ yarn start
 
 # Sígueme en mis redes sociales
 - Twitter: [Enlace a tu perfil de Twitter](https://twitter.com/tu_usuario)
-- Instagram: [Enlace a tu perfil de Instagram]([https://instagram.com/tu_usuario](https://www.instagram.com/deivid_gm25/))
+- Instagram: [Enlace a tu perfil de Instagram]([(https://www.instagram.com/deivid_gm25/)])
 - GitHub: [Enlace a tu perfil de GitHub](https://github.com/Deivid11213/)
 
 ¡Espero que disfrutes de la aplicación y te agradezco por seguirme en mis redes sociales!
